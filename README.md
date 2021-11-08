@@ -8,15 +8,6 @@
 
 <p align="center">“Sua única limitação é você mesmo”!</blockquote>
 
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/wagner477/ignite-template-trabalhando-com-middlewares?style=flat">
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
-
-  <a href="https://github.com/rocketseat-education/ignite-template-trabalhando-com-middlewares/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat-education/ignite-template-trabalhando-com-middlewares?style=social">
-  </a>
-</p>
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
